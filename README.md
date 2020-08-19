@@ -3,7 +3,7 @@
 <h3 align="center">I am an Embedded systems, Native android app, web, IoT Developer,and a UNDERGRAD from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asv0018" alt="asv0018"&label=PROFILE+VIEWS /> </p>
-<img align="right" alt="jpg" src="https://e7.pngegg.com/pngimages/699/371/png-clipart-graphics-caveman-open-thunderman-cartoon-fictional-character.png" />
+<img align="right" alt="jpg" height="300dp" width="300dp" src="https://e7.pngegg.com/pngimages/699/371/png-clipart-graphics-caveman-open-thunderman-cartoon-fictional-character.png" />
 
 - 🔭 I’m currently working on NOTHING, because nothing is my project. LOL
 
