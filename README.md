@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreevallabha<em>(ASV)</em></h1>
+<h1 align="center">Hi 👋, I'm Shreevallabha<b>(ASV)</b></h1>
 
 <h3 align="center">I am an Embedded systems, Native Android App, Web, IoT Developer, Freelancer, Intern @ Thinkfinitylabs and UG student from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
