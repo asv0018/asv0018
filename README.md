@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreevallabha<b>(ASV)</b></h1>
 
-<h3 align="center">I am an Embedded systems, Native Android App, Web, IoT Developer, Freelancer, Intern @ Thinkfinitylabs and UG student from REVA University, Bangalore, India.I also hold the position of Android Head and core member of GOOGLE DSC CLUB,REVA Chapter<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
+<h3 align="center">I am an Embedded systems, Native Android App, Web, IoT Developer, Freelancer, Intern @ Thinkfinitylabs and UG student from REVA University, Bangalore, India. I hold the position of Android Head and core member of Google's DSC-REVA club.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asv0018" alt="asv0018"&label=PROFILE+VIEWS /> </p>
 <img align="right" alt="jpg" height="220dp" width="330dp" src="https://cdn.mos.cms.futurecdn.net/AcsWrxvSjXZnAyH6mtp9Wb.jpg" />
