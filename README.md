@@ -3,13 +3,7 @@
 <h3 align="center">I am Founder & CTO of IOTREE MINDS LLP. My area of expertise is in Embedded systems, Native android and Hybrid App, Web, IoT development.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asv0018" alt="asv0018"&label=PROFILE+VIEWS /> </p>
-<img align="right" alt="jpg" height="220dp" width="330dp" src="https://cdn.mos.cms.futurecdn.net/AcsWrxvSjXZnAyH6mtp9Wb.jpg" />
-
-- 🔭 I’m currently working on NOTHING, because NOTHING is my project. LOL
-
-- 🌱 I’m currently learning **Embedded C, RTOS, & ROS**
-
-- 🤝 I’m looking for help with **STARTUP**
+- 🌱 I’m currently learning **Blockchain Technology and Digital Marketing**
 
 - 👨‍💻 All of my projects and details are available at [https://shreevallabh.me](https://shreevallabh.me)
 
