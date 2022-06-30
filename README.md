@@ -3,11 +3,10 @@
 <h3 align="center">I am Founder & CTO of IOTREE MINDS LLP. My area of expertise is in Embedded systems, Native android and Hybrid App, Web, IoT development.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asv0018" alt="asv0018"&label=PROFILE+VIEWS /> </p>
-- 🌱 I’m currently learning **Blockchain Technology and Digital Marketing**
 
 - 👨‍💻 All of my projects and details are available at [https://shreevallabh.me](https://shreevallabh.me)
 
-- 📝 I rarely post on [https://www.linkedin.com/in/asv0018/](https://www.linkedin.com/in/asv0018/)
+- 📝 I am active on [https://www.linkedin.com/in/asv0018/](https://www.linkedin.com/in/asv0018/)
 
 - 📫 How to reach me **asvsharma.edu.tech@gmail.com**
 
